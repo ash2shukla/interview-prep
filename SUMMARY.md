@@ -51,6 +51,7 @@
     * [Prometheus](hld/logging-and-monitoring/prometheus.md)
 * [DSA](dsa/README.md)
   * [Tree](dsa/tree/README.md)
+    * [98. Validate Binary Search Tree](dsa/tree/98.-validate-binary-search-tree.md)
     * [236. Lowest Common Ancestor of a Binary Tree](dsa/tree/236.-lowest-common-ancestor-of-a-binary-tree.md)
   * [Stack](dsa/stack/README.md)
     * [32. Longest Valid Parentheses](dsa/stack/32.-longest-valid-parentheses.md)
