@@ -51,6 +51,7 @@
     * [Prometheus](hld/logging-and-monitoring/prometheus.md)
 * [DSA](dsa/README.md)
   * [Topological Sorting](dsa/topological-sorting/README.md)
+    * [1136. Parallel Courses](dsa/topological-sorting/1136.-parallel-courses.md)
     * [210. Course Schedule II](dsa/topological-sorting/210.-course-schedule-ii.md)
     * [207. Course Schedule](dsa/topological-sorting/207.-course-schedule.md)
   * [Graph](dsa/graph/README.md)
