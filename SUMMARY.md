@@ -113,6 +113,7 @@
     * [438. Find All Anagrams in a String](dsa/sliding-window/438.-find-all-anagrams-in-a-string.md)
     * [1876. Substrings of Size Three with Distinct Characters](dsa/sliding-window/1876.-substrings-of-size-three-with-distinct-characters.md)
   * [Miscellaneous](dsa/miscellaneous/README.md)
+    * [59. Spiral Matrix II](dsa/miscellaneous/59.-spiral-matrix-ii.md)
     * [240. Search a 2D Matrix II](dsa/miscellaneous/240.-search-a-2d-matrix-ii.md)
     * [1351. Count Negative Numbers in a Sorted Matrix](dsa/miscellaneous/1351.-count-negative-numbers-in-a-sorted-matrix.md)
     * [41. First Missing Positive](dsa/miscellaneous/41.-first-missing-positive.md)
