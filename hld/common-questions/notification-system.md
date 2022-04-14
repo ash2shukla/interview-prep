@@ -51,7 +51,7 @@ If the event is of type inbound event then sends to _svc.notifications.inbound_ 
 
 **Inbound Notification Event Handler:** Consumes from _svc.notifications.inbound_ topic and sets the "seen" / "failed" etc. for notification tracker.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 ### **Read this**
 

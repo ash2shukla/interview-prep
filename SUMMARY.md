@@ -56,6 +56,8 @@
     * [210. Course Schedule II](dsa/topological-sorting/210.-course-schedule-ii.md)
     * [207. Course Schedule](dsa/topological-sorting/207.-course-schedule.md)
   * [Graph](dsa/graph/README.md)
+    * [329. Longest Increasing Path in a Matrix](dsa/graph/329.-longest-increasing-path-in-a-matrix.md)
+    * [787. Cheapest Flights Within K Stops](dsa/graph/787.-cheapest-flights-within-k-stops.md)
     * [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](dsa/graph/1334.-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.md)
     * [1462. Course Schedule IV](dsa/graph/1462.-course-schedule-iv.md)
     * [1971. Find if Path Exists in Graph](dsa/graph/1971.-find-if-path-exists-in-graph.md)
