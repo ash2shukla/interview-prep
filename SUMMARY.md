@@ -63,6 +63,7 @@
     * [1971. Find if Path Exists in Graph](dsa/graph/1971.-find-if-path-exists-in-graph.md)
     * [399. Evaluate Division](dsa/graph/399.-evaluate-division.md)
   * [Tree](dsa/tree/README.md)
+    * [669. Trim a Binary Search Tree](dsa/tree/669.-trim-a-binary-search-tree.md)
     * [545. Boundary of Binary Tree](dsa/tree/545.-boundary-of-binary-tree.md)
     * [1650. Lowest Common Ancestor of a Binary Tree III](dsa/tree/1650.-lowest-common-ancestor-of-a-binary-tree-iii.md)
     * [98. Validate Binary Search Tree](dsa/tree/98.-validate-binary-search-tree.md)
