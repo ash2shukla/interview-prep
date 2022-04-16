@@ -11,10 +11,43 @@ There are mainly two problems.
 1. The intersecting parts ( ie. red part )
 2. The union parts ( ie. green part )
 
-For intersection after sort a new part is starting when the next start exceeds previous min end.
+Both Algorithms follow that (a, b) (b, c) are distinct.\
+So Intersection condition is _**start < prev\_end**_
 
-![](<../../../.gitbook/assets/image (17).png>)
+### Intersecting Intervals
 
-_in above example if we focused on the maximum end then we would only see 1 intersection whereas there are two._
+_Shrink intervals when intersection found._
 
-For union after sort a new part is starting when next start exceeds previous max end.
+```python
+intervals.sort(lambda interval: (interval.start, interval.end))
+prev_end = float("-inf")
+new_segments = 0
+overlapping_segments = 0
+for start, end in intervals:
+    if start < prev_end:
+        overlapping_segments += 1
+        if end < prev_end:
+            prev_end = end
+    else:
+        prev_end = end # because new segment has started we need to update end
+        new_segments += 1
+```
+
+### Union Intervals
+
+_Expand intervals when intersection found._
+
+```python
+intervals.sort(lambda interval: (interval.start, interval.end))
+prev_start, prev_end = float("-inf")
+new_segments = 0
+overlapping_segments = 0      # additional interval to mark end of all intervals
+for start, end in intervals + [(float("+inf"), float("+inf")]:
+    if start < prev_end:
+        overlapping_segments += 1
+        if end > prev_end:
+            prev_end = end # expand instead of shrinking
+    else:
+        prev_end = end # because new segment has started we need to update end
+        new_segments += 1
+```
