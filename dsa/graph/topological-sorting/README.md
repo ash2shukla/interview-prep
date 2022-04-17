@@ -6,7 +6,7 @@ Keep in-degrees (if incoming edge represents a dependency of from_node on to_nod
 
 ```python
 degrees = [0] * n
-graph = defaultdict(list)
+adj_list = defaultdict(list)
 
 for frm, to in dependencies:
     degrees[to] += 1
@@ -19,7 +19,7 @@ result = []
 while q:
     node = q.popleft()
     result.append(node)
-    for nbr in graph[node]
+    for nbr in adj_list[node]
         degrees[nbr] -= 1
         if degrees[nbr] == 0:
             q.append(nbr)
