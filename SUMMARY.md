@@ -138,6 +138,7 @@
     * [438. Find All Anagrams in a String](dsa/sliding-window/438.-find-all-anagrams-in-a-string.md)
     * [1876. Substrings of Size Three with Distinct Characters](dsa/sliding-window/1876.-substrings-of-size-three-with-distinct-characters.md)
   * [Miscellaneous](dsa/miscellaneous/README.md)
+    * [48. Rotate Image](dsa/miscellaneous/48.-rotate-image.md)
     * [189. Rotate Array](dsa/miscellaneous/189.-rotate-array.md)
     * [350. Intersection of Two Arrays II](dsa/miscellaneous/350.-intersection-of-two-arrays-ii.md)
     * [54. Spiral Matrix](dsa/miscellaneous/54.-spiral-matrix.md)

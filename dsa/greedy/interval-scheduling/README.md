@@ -4,7 +4,7 @@ description: Greedy algorithm to find something based on some given intervals.
 
 # Interval Scheduling
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)
 
 There are mainly two problems.
 
