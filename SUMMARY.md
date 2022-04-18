@@ -77,6 +77,7 @@
       * [1971. Find if Path Exists in Graph](dsa/graph/union-find/1971.-find-if-path-exists-in-graph.md)
   * [Tree](dsa/tree/README.md)
     * [Binary Trees](dsa/tree/binary-trees/README.md)
+      * [814. Binary Tree Pruning](dsa/tree/binary-trees/814.-binary-tree-pruning.md)
       * [545. Boundary of Binary Tree](dsa/tree/binary-trees/545.-boundary-of-binary-tree.md)
       * [1650. Lowest Common Ancestor of a Binary Tree III](dsa/tree/binary-trees/1650.-lowest-common-ancestor-of-a-binary-tree-iii.md)
       * [236. Lowest Common Ancestor of a Binary Tree](dsa/tree/binary-trees/236.-lowest-common-ancestor-of-a-binary-tree.md)
