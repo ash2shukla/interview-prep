@@ -81,6 +81,7 @@
       * [1650. Lowest Common Ancestor of a Binary Tree III](dsa/tree/binary-trees/1650.-lowest-common-ancestor-of-a-binary-tree-iii.md)
       * [236. Lowest Common Ancestor of a Binary Tree](dsa/tree/binary-trees/236.-lowest-common-ancestor-of-a-binary-tree.md)
     * [Binary Search Trees](dsa/tree/binary-search-trees/README.md)
+      * [230. Kth Smallest Element in a BST](dsa/tree/binary-search-trees/230.-kth-smallest-element-in-a-bst.md)
       * [897. Increasing Order Search Tree](dsa/tree/binary-search-trees/897.-increasing-order-search-tree.md)
       * [538. Convert BST to Greater Tree](dsa/tree/binary-search-trees/538.-convert-bst-to-greater-tree.md)
       * [669. Trim a Binary Search Tree](dsa/tree/binary-search-trees/669.-trim-a-binary-search-tree.md)
