@@ -51,6 +51,8 @@
     * [Prometheus](hld/logging-and-monitoring/prometheus.md)
 * [DSA](dsa/README.md)
   * [Greedy](dsa/greedy/README.md)
+    * [Miscellaneous](dsa/greedy/miscellaneous/README.md)
+      * [68. Text Justification](dsa/greedy/miscellaneous/68.-text-justification.md)
     * [Interval Scheduling](dsa/greedy/interval-scheduling/README.md)
       * [1094. Car Pooling](dsa/greedy/interval-scheduling/1094.-car-pooling.md)
       * [56. Merge Intervals](dsa/greedy/interval-scheduling/56.-merge-intervals.md)
