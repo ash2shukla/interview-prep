@@ -105,6 +105,7 @@
   * [Binary Search](dsa/binary-search/README.md)
     * [4. Median of Two Sorted Arrays](dsa/binary-search/4.-median-of-two-sorted-arrays.md)
   * [Backtracking](dsa/backtracking/README.md)
+    * [52. N-Queens II](dsa/backtracking/52.-n-queens-ii.md)
     * [37. Sudoku Solver](dsa/backtracking/37.-sudoku-solver.md)
   * [Trie](dsa/trie/README.md)
     * [1268. Search Suggestions System](dsa/trie/1268.-search-suggestions-system.md)
