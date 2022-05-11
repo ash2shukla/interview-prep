@@ -79,6 +79,7 @@
       * [1971. Find if Path Exists in Graph](dsa/graph/union-find/1971.-find-if-path-exists-in-graph.md)
   * [Tree](dsa/tree/README.md)
     * [Binary Trees](dsa/tree/binary-trees/README.md)
+      * [297. Serialize and Deserialize Binary Tree](dsa/tree/binary-trees/297.-serialize-and-deserialize-binary-tree.md)
       * [124. Binary Tree Maximum Path Sum](dsa/tree/binary-trees/124.-binary-tree-maximum-path-sum.md)
       * [814. Binary Tree Pruning](dsa/tree/binary-trees/814.-binary-tree-pruning.md)
       * [545. Boundary of Binary Tree](dsa/tree/binary-trees/545.-boundary-of-binary-tree.md)
