@@ -2,6 +2,8 @@
 
 Bi directional communication between multiple incompatible interfaces.
 
+<img alt="" class="gitbook-drawing">
+
 ```python
 class Mediator:
     def notify(self, sender: Type["Mediated"], event: Any):
