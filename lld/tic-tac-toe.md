@@ -5,6 +5,8 @@
 1. Player should be able to send invite to any other player
 2. Players should have a profile with their score ( win - loss - draws - total games played )
 
+<img src="../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
+
 ### Solution
 
 ```python
