@@ -127,6 +127,7 @@
     * [218. The Skyline Problem](dsa/heaps/218.-the-skyline-problem.md)
     * [295. Find Median from Data Stream](dsa/heaps/295.-find-median-from-data-stream.md)
   * [Sliding Window](dsa/sliding-window/README.md)
+    * [904. Fruit Into Baskets](dsa/sliding-window/904.-fruit-into-baskets.md)
     * [30. Substring with Concatenation of All Words](dsa/sliding-window/30.-substring-with-concatenation-of-all-words.md)
     * [209. Minimum Size Subarray Sum](dsa/sliding-window/209.-minimum-size-subarray-sum.md)
     * [480. Sliding Window Median](dsa/sliding-window/480.-sliding-window-median.md)
