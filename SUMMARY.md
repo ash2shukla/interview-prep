@@ -127,6 +127,7 @@
     * [218. The Skyline Problem](dsa/heaps/218.-the-skyline-problem.md)
     * [295. Find Median from Data Stream](dsa/heaps/295.-find-median-from-data-stream.md)
   * [Sliding Window](dsa/sliding-window/README.md)
+    * [930. Binary Subarrays With Sum](dsa/sliding-window/930.-binary-subarrays-with-sum.md)
     * [992. Subarrays with K Different Integers](dsa/sliding-window/992.-subarrays-with-k-different-integers.md)
     * [904. Fruit Into Baskets](dsa/sliding-window/904.-fruit-into-baskets.md)
     * [30. Substring with Concatenation of All Words](dsa/sliding-window/30.-substring-with-concatenation-of-all-words.md)
