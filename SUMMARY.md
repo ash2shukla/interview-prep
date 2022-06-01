@@ -139,6 +139,7 @@
       * [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](dsa/sliding-window/minimize-maximize-window/1343.-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.md)
       * [643. Maximum Average Subarray I](dsa/sliding-window/minimize-maximize-window/643.-maximum-average-subarray-i.md)
     * [Tricky](dsa/sliding-window/tricky/README.md)
+      * [1234. Replace the Substring for Balanced String](dsa/sliding-window/tricky/1234.-replace-the-substring-for-balanced-string.md)
       * [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](dsa/sliding-window/tricky/1438.-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.md)
       * [862. Shortest Subarray with Sum at Least K](dsa/sliding-window/tricky/862.-shortest-subarray-with-sum-at-least-k.md)
       * [480. Sliding Window Median](dsa/sliding-window/tricky/480.-sliding-window-median.md)
