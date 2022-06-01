@@ -149,6 +149,7 @@
       * [992. Subarrays with K Different Integers](dsa/sliding-window/count-subarrays/992.-subarrays-with-k-different-integers.md)
       * [1358. Number of Substrings Containing All Three Characters](dsa/sliding-window/count-subarrays/1358.-number-of-substrings-containing-all-three-characters.md)
   * [Miscellaneous](dsa/miscellaneous/README.md)
+    * [2063. Vowels of All Substrings](dsa/miscellaneous/2063.-vowels-of-all-substrings.md)
     * [75. Sort Colors](dsa/miscellaneous/75.-sort-colors.md)
     * [48. Rotate Image](dsa/miscellaneous/48.-rotate-image.md)
     * [189. Rotate Array](dsa/miscellaneous/189.-rotate-array.md)

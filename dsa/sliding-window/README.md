@@ -2,6 +2,13 @@
 
 {% embed url="https://leetcode.com/tag/sliding-window" %}
 
+### Types of Questions
+
+1. Find size of window given a constraint.
+2. Find max min given size of window.
+3. window + deque
+4. window + dictionary / set&#x20;
+
 ### Fixed Size
 
 ```python
