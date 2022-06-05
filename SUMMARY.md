@@ -51,6 +51,7 @@
     * [Prometheus](hld/logging-and-monitoring/prometheus.md)
 * [DSA](dsa/README.md)
   * [Two Pointers](dsa/two-pointers/README.md)
+    * [1813. Sentence Similarity III](dsa/two-pointers/1813.-sentence-similarity-iii.md)
     * [1877. Minimize Maximum Pair Sum in Array](dsa/two-pointers/1877.-minimize-maximum-pair-sum-in-array.md)
     * [42. Trapping Rain Water](dsa/two-pointers/42.-trapping-rain-water.md)
     * [31. Next Permutation](dsa/two-pointers/31.-next-permutation.md)
