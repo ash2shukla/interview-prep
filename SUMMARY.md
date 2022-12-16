@@ -2,8 +2,10 @@
 
 * [About](README.md)
 * [LLD](lld/README.md)
-  * [Mediator Pattern](lld/mediator-pattern.md)
-  * [Tic Tac Toe](lld/tic-tac-toe.md)
+  * [Design Principles](lld/design-principles.md)
+  * [Design Patterns](lld/design-patterns/README.md)
+    * [Mediator Pattern](lld/design-patterns/mediator-pattern.md)
+    * [Tic Tac Toe](lld/design-patterns/tic-tac-toe.md)
 * [HLD](hld/README.md)
   * [Common Questions](hld/common-questions/README.md)
     * [Distributed Logging System](hld/common-questions/distributed-logging-system.md)
